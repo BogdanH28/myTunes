@@ -1,5 +1,5 @@
 {
-  "name": "myTunes",
+  "name": "mytunes",
   "version": "1.0.0",
   "description": "myTunes website",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "author": "Heghes Bogdan",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "node-sass": "^4.9.3"
   }
 }
