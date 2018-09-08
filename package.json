@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "myTunes website",
   "main": "index.js",
-  "homepage": "https://bogdanh28.github.io/myTunes-Website",
+  "homepage": "https://bogdanh28.github.io/myTunes",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursiven",
     "deploy": "gh-pages -d dist"
