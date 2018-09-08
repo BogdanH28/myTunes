@@ -1,0 +1,16 @@
+{
+  "name": "myTunes",
+  "version": "1.0.0",
+  "description": "myTunes website",
+  "main": "index.js",
+  "homepage": "https://bogdanh28.github.io/myTunes-Website",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursiven",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Heghes Bogdan",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
